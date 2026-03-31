@@ -1,2 +1,2 @@
 ## Jellypod, Inc. 
-Create customizable, AI podcasts – in minutes.
+https://jellypod.com/
